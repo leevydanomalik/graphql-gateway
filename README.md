@@ -171,4 +171,4 @@ query {
 ```
 
 #### Launch GraphQL queries using [GraphQL Playground](https://github.com/graphql/graphql-playground)
-![graphql playground](_dev/graphql-playground.png)
+![graphql playground](_dev/graphql-playground.png)# klhk-graphql
